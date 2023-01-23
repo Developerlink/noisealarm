@@ -32,7 +32,7 @@ void setup() {
   if (!Ethernet.begin(mac)) {
     Serial.println(F("Failed to configure Ethernet"));
     return;
-  }
+  } 
   delay(1000);
 
   Serial.println(F("Connecting..."));
