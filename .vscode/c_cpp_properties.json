@@ -10,6 +10,7 @@
             "includePath": [
                 "C:/Users/Link/source/repos/noisealarm/include",
                 "C:/Users/Link/source/repos/noisealarm/src",
+                "C:/Users/Link/source/repos/noisealarm/.pio/libdeps/m5stack-grey/Adafruit NeoPixel",
                 "C:/Users/Link/source/repos/noisealarm/.pio/libdeps/m5stack-grey/ArduinoJson/src",
                 "C:/Users/Link/source/repos/noisealarm/.pio/libdeps/m5stack-grey/Ethernet/src",
                 "C:/Users/Link/source/repos/noisealarm/.pio/libdeps/m5stack-grey/M5Stack/src",
@@ -245,6 +246,7 @@
                 "path": [
                     "C:/Users/Link/source/repos/noisealarm/include",
                     "C:/Users/Link/source/repos/noisealarm/src",
+                    "C:/Users/Link/source/repos/noisealarm/.pio/libdeps/m5stack-grey/Adafruit NeoPixel",
                     "C:/Users/Link/source/repos/noisealarm/.pio/libdeps/m5stack-grey/ArduinoJson/src",
                     "C:/Users/Link/source/repos/noisealarm/.pio/libdeps/m5stack-grey/Ethernet/src",
                     "C:/Users/Link/source/repos/noisealarm/.pio/libdeps/m5stack-grey/M5Stack/src",
